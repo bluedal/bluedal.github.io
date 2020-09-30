@@ -173,6 +173,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
+.sidebar-item img {
+  border-radius: 50%;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
