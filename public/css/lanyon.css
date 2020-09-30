@@ -173,10 +173,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
-.sidebar-item img {
-  border-radius: 50%;
-}
-
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
@@ -559,4 +555,19 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+/* add custmizing css */
+
+.sidebar-item img {
+  border-radius: 50%;
+}
+
+.sidebar-profile-concat ul {
+  padding: 10px 10px 0px 0px !important;
+}
+
+.sidebar-profile-concat li {
+  list-style: none; 
 }
