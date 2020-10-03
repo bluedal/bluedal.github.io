@@ -4,7 +4,7 @@ tagline:             ''
 description:         'Il Young Hwang(황일영)<br>우리 같이 소통해요.'
 url:                 https://bluedal.github.io
 baseurl:             ''
-paginate:            5
+paginate:            20
 permalink:           pretty
 
 # About/contact
