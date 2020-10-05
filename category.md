@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Devs
+title: Category
 ---
 
 {% for category in site.categories %}
