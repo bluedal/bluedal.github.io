@@ -21,8 +21,8 @@ plugins:
   
 languages: ['ja', 'ko', 'en']
 default_lang: 'ko'
-exclude_from_localization: ['javascript', 'images', 'css']
-parallel_localization: false
+exclude_from_localization: ['javascript', 'images', 'css',]
+parallel_localization: true
 
 # Custom vars
 version:             1.1.0
