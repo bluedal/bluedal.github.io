@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Computer Science and Development Blog-👻</title>
- <link href="http://localhost:4000/en/atom.xml" rel="self"/>
- <link href="http://localhost:4000/en/"/>
+ <link href="http://localhost:4000/ja/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/ja/"/>
  <updated>2020-10-23T23:00:34+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://localhost:4000/en/2020/04/03/introducing-lanyon/"/>
+   <link href="http://localhost:4000/ja/2020/04/03/introducing-lanyon/"/>
    <updated>2020-04-03T00:00:00+09:00</updated>
    <id>http://localhost:4000/2020/04/03/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
@@ -59,7 +59,7 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://localhost:4000/en/2020/04/02/example-content/"/>
+   <link href="http://localhost:4000/ja/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00+09:00</updated>
    <id>http://localhost:4000/2020/04/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
@@ -192,7 +192,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/2020/04/01/whats-jekyll/"/>
+   <link href="http://localhost:4000/ja/2020/04/01/whats-jekyll/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/2020/04/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
@@ -209,7 +209,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/2020/04/01/whats-jekyll-copy/"/>
+   <link href="http://localhost:4000/ja/2020/04/01/whats-jekyll-copy/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/2020/04/01/whats-jekyll copy</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
@@ -226,7 +226,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/travel/2020/04/01/whats-jekyll-copy-5/"/>
+   <link href="http://localhost:4000/ja/travel/2020/04/01/whats-jekyll-copy-5/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/travel/2020/04/01/whats-jekyll copy 5</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
@@ -243,7 +243,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/travel/2020/04/01/whats-jekyll-copy-4/"/>
+   <link href="http://localhost:4000/ja/travel/2020/04/01/whats-jekyll-copy-4/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/travel/2020/04/01/whats-jekyll copy 4</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
@@ -260,7 +260,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/blog/2020/04/01/whats-jekyll-copy-3/"/>
+   <link href="http://localhost:4000/ja/blog/2020/04/01/whats-jekyll-copy-3/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/blog/2020/04/01/whats-jekyll copy 3</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
@@ -277,7 +277,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/en/blog/2020/04/01/whats-jekyll-copy-2/"/>
+   <link href="http://localhost:4000/ja/blog/2020/04/01/whats-jekyll-copy-2/"/>
    <updated>2020-04-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/blog/2020/04/01/whats-jekyll copy 2</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
