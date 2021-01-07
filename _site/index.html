@@ -196,7 +196,7 @@ ssl_ciphers         HIGH:!aNULL:!MD5;
 ... }
 </code></pre></div></div>
 
-<p>4단계</p>
+<p><strong>4단계</strong></p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>실제 서버에 ngxin 서비스가 실행되고 있는지 확인
 - systemctl status nginx
@@ -211,7 +211,7 @@ iptable에 해당 port번호가 없으면 적용
 - sudo iptables -I INPUT -p tcp -m tcp --dport 443 -j ACCEPT
 </code></pre></div></div>
 
-<p>5단계</p>
+<p><strong>5단계</strong></p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Nginx 재시작 후 확인
 - Systemctl restart nginx 

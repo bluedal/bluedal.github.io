@@ -47,7 +47,7 @@ server {
 }
 
 
-4단계
+__4단계__
 
 
 	실제 서버에 ngxin 서비스가 실행되고 있는지 확인
@@ -62,7 +62,7 @@ server {
 	- sudo iptables -I INPUT -p tcp -m tcp --dport 80 -j ACCEPT
 	- sudo iptables -I INPUT -p tcp -m tcp --dport 443 -j ACCEPT
 
-5단계
+__5단계__
 
 
 	Nginx 재시작 후 확인
