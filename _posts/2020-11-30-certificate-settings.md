@@ -68,12 +68,14 @@ server {
 	Nginx 재시작 후 확인
 	- Systemctl restart nginx 
 
+References
 
-Nginx ssl 설정 참고 <http://nginx.org/en/docs/http/configuring_https_servers.html>
 
-인증서 개념 <https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html>
+* Nginx ssl 설정 참고 <http://nginx.org/en/docs/http/configuring_https_servers.html>
 
-nginx에 https 적용1 참고 <https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7>
+* 인증서 개념 <https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html>
 
-nginx에 https 적용2 참고 <https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html>
+* nginx에 https 적용1 참고 <https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7>
+
+* nginx에 https 적용2 참고 <https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html>
 
