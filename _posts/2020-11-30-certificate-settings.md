@@ -1,11 +1,8 @@
 ---
 layout: post
 title: http --> https 적용방법
-categories: [blog]
-tags: [http, nginx, ssl]
+tags: []
 ---
-
-
 ---
 
 __준비물__

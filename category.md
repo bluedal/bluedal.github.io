@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Category
+title: Daily List
 ---
 
 {% for category in site.categories %}

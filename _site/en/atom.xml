@@ -4,7 +4,7 @@
  <title>Technology and Development Blog-👻</title>
  <link href="http://localhost:4000/en/atom.xml" rel="self"/>
  <link href="http://localhost:4000/en/"/>
- <updated>2021-01-07T23:18:36+09:00</updated>
+ <updated>2021-01-08T00:21:16+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Il Young Hwang</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>http --> https 적용방법</title>
-   <link href="http://localhost:4000/en/blog/2020/11/30/certificate-settings/"/>
+   <link href="http://localhost:4000/en/2020/11/30/certificate-settings/"/>
    <updated>2020-11-30T00:00:00+09:00</updated>
-   <id>http://localhost:4000/blog/2020/11/30/certificate-settings</id>
+   <id>http://localhost:4000/2020/11/30/certificate-settings</id>
    <content type="html">&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;준비물&lt;/strong&gt;&lt;/p&gt;
