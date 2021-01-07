@@ -4,7 +4,7 @@
  <title>Technology and Development Blog-👻</title>
  <link href="http://localhost:4000/en/atom.xml" rel="self"/>
  <link href="http://localhost:4000/en/"/>
- <updated>2021-01-08T00:29:53+09:00</updated>
+ <updated>2021-01-08T01:58:19+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Il Young Hwang</name>
@@ -79,13 +79,22 @@ iptable에 해당 port번호가 없으면 적용
 - Systemctl restart nginx 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Nginx ssl 설정 참고 &lt;a href=&quot;http://nginx.org/en/docs/http/configuring_https_servers.html&quot;&gt;http://nginx.org/en/docs/http/configuring_https_servers.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
 
-&lt;p&gt;인증서 개념 &lt;a href=&quot;https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html&quot;&gt;https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;nginx에 https 적용1 참고 &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7&quot;&gt;https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;nginx에 https 적용2 참고 &lt;a href=&quot;https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html&quot;&gt;https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nginx ssl 설정 참고 &lt;a href=&quot;http://nginx.org/en/docs/http/configuring_https_servers.html&quot;&gt;http://nginx.org/en/docs/http/configuring_https_servers.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;인증서 개념 &lt;a href=&quot;https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html&quot;&gt;https://www.lesstif.com/system-admin/openssl-root-ca-ssl-6979614.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;nginx에 https 적용1 참고 &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7&quot;&gt;https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;nginx에 https 적용2 참고 &lt;a href=&quot;https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html&quot;&gt;https://www.lesstif.com/system-admin/nginx-https-ssl-27984443.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
  </entry>

@@ -3,6 +3,13 @@ layout: page
 title: Technology List
 ---
 
+<!-- <div class="page">
+  {% assign sorted_tags = site.data.tags | sort:"name" %}
+  {% for tag in sorted_tags %}
+    {% include tag_link_formatter.html tag=tag tag_separator='<br />' %}
+  {% endfor %}
+</div> -->
+
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_tags: {{ site_tags }} -->
 {% assign tag_words = site_tags | split:',' | sort %}
