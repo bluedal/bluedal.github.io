@@ -10,6 +10,8 @@ title: About
 
 감사합니다.😁
 
->![Alt text](/public/kakaoprofile.jpeg "profile")
+>![Alt text](/public/kakaoprofile.jpeg "profile")  
 
 
+
+* ####  🗓2019.04 ~ 2020.11 빅밸류 빅데이터 시스템개발부 
