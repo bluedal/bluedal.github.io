@@ -1,9 +1,21 @@
 ---
 layout: post
-title: http --> https 적용방법
+title: SSL 적용방법
 tags: [http]
 ---
 ---
+
+SSL은(Secure Sockets Layer)의 약자 고, 인터넷 연결을 안전하게 유지하고 두 System간에 전송되는 민감한 데이터롤 보호하며, 수정되는 것을 방지하는 표준기술 입니다.
+
+```python
+   # This program adds up integers in the command line
+import sys
+try:
+    total = sum(int(arg) for arg in sys.argv[1:])
+    print 'sum =', total
+except ValueError:
+    print 'Please supply integer arguments'
+```
 
 __준비물__
 

@@ -41,7 +41,10 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: '맑은 고딕', 'malgun gothic',
+  'Apple SD Gothic Neo', 'Apple SD 산돌고딕 Neo', 
+  'Microsoft NeoGothic', 
+  'Droid sans', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
